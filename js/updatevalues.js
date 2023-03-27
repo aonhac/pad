@@ -21,10 +21,10 @@ jQuery(document).ready(function($){
         params: {
           type: 'ERC20',
           options: {
-            address: "0x6665d66afa48f527d86623723342cfa258cb8666",
-            symbol: "KuDo",
+            address: "",
+            symbol: "ZKPAD",
             decimals: 18,
-            image: "https://kudoge.io/images/kudoge-social-icon.png",
+            image: "https://zkpad.netlify.app/images/kudoge-social-icon.png",
           },
         },
       });
